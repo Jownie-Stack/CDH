@@ -8,6 +8,6 @@
 <body>
     <h1>Welcome to the Standard Credit Card Page</h1>
     <p>This is a sample page for a standard credit card.</p>
-    <!-- Add your content here -->
+    <p>Here, you can add details about the credit card benefits, features, or anything you'd like to display.</p>
 </body>
 </html>
